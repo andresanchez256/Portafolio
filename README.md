@@ -11,7 +11,7 @@ Estadístico de la Universidad Nacional de Colombia. Enfocado en riesgo financie
 **Problema:** Predecir qué clientes tienen mayor probabilidad de no pagar un préstamo.
 **Herramientas:** Python, pandas, scikit-learn
 **Estado:** Notebook en construcción
-**Link:** [Repositorio](https://github.com/andresanchez256/credito-default-prediction)
+**Link:** [Repositorio](https://github.com/andresanchez256/Analisis-crediticio)
 
 ### Proyecto 2: Dashboard de riesgo financiero (próximamente)
 **Problema:** Visualizar KPIs de morosidad y exposición por sector.
