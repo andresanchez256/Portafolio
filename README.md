@@ -1,5 +1,5 @@
 # Portafolio de Proyectos
-Aqui muestro algunos proyectos que estoy desarrollando.
+En este repositorio muestro algunos proyectos que estoy desarrollando como estadistico y analista de datos.
 ---
 
 ## Proyectos destacados
